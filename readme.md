@@ -1,3 +1,7 @@
-#To start
+# To start
 
-npm run dev
+- npm install
+- npm run dev
+
+
+It will run on port 5000
